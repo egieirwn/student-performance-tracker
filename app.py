@@ -32,7 +32,7 @@ def print_menu():
     print("7) Simpan data ke CSV")
     print("8) Tampilkan mahasiswa dengan nilai < 70")
     print("9) Simpan laporan HTML berwarna")
-    print("10) 🔄 Reset semua data (hapus isi CSV & memori)")
+    print("10) Reset semua data (hapus isi CSV & memori)")
     print("11) Keluar")
 
 
